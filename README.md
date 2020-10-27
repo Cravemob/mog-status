@@ -2,11 +2,11 @@
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
-[![Static Site CI](https://github.com/koj-co/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Graphs CI](https://github.com/koj-co/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Graphs+CI%22)
-[![Response Time CI](https://github.com/koj-co/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
-[![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Static Site CI](https://github.com/cravemob/mog-status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/cravemob/mog-status/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Graphs CI](https://github.com/cravemob/mog-status/workflows/Graphs%20CI/badge.svg)](https://github.com/cravemob/mog-status/actions?query=workflow%3A%22Graphs+CI%22)
+[![Response Time CI](https://github.com/cravemob/mog-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/cravemob/mog-status/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Summary CI](https://github.com/cravemob/mog-status/workflows/Summary%20CI/badge.svg)](https://github.com/cravemob/mog-status/actions?query=workflow%3A%22Summary+CI%22)
+[![Uptime CI](https://github.com/cravemob/mog-status/workflows/Uptime%20CI/badge.svg)](https://github.com/cravemob/mog-status/actions?query=workflow%3A%22Uptime+CI%22)
 
 ## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
 
@@ -52,7 +52,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
     <td>
       <table>
         <tr>
-          <td><a href="https://github.com/koj-co"><img src="https://avatars3.githubusercontent.com/u/65495851?v=4" height="50px" alt=""/></a></td>
+          <td><a href="https://github.com/cravemob"><img src="https://avatars3.githubusercontent.com/u/65495851?v=4" height="50px" alt=""/></a></td>
           <td><a href="https://status.koj.co"><strong>Koj</strong><br><code>status.koj.co</code></a></td>
         </tr>
       </table>
@@ -84,11 +84,11 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
   </tr>
 </table>
 
-[You too? Open a PR!](https://github.com/koj-co/upptime/edit/master/README.md)
+[You too? Open a PR!](https://github.com/cravemob/mog-status/edit/master/README.md)
 
 ## 👩‍💻 Getting started
 
-1. Create a new repository [using this template](https://github.com/koj-co/upptime/generate)
+1. Create a new repository [using this template](https://github.com/cravemob/mog-status/generate)
 2. Update the [`.upptimerc.yml`](./.upptimerc.yml) file with your configuration
 3. Enable publishing the `gh-pages` branch for your status website and add a `GH_PAT`
 
@@ -96,7 +96,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 
 #### Issues as incidents
 
-When the GitHub Actions workflow detects that one of your URLs is down, it automatically opens a GitHub issue ([example issue #15](https://github.com/koj-co/upptime/issues/15)). You can add incident reports to this issue by adding comments. When your site comes back up, the issue will be closed automatically as well.
+When the GitHub Actions workflow detects that one of your URLs is down, it automatically opens a GitHub issue ([example issue #15](https://github.com/cravemob/mog-status/issues/15)). You can add incident reports to this issue by adding comments. When your site comes back up, the issue will be closed automatically as well.
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ When the GitHub Actions workflow detects that one of your URLs is down, it autom
 
 #### Commits for response time
 
-Four times per day, another workflow runs and records the response time of your websites. This data is commited to GitHub, so it's available in the commit history of each file ([example commit history](https://github.com/koj-co/upptime/commits/master/history/wikipedia.yml)). Then, the GitHub API is used to graph the response time history of each endpoint and to track when a site went down.
+Four times per day, another workflow runs and records the response time of your websites. This data is commited to GitHub, so it's available in the commit history of each file ([example commit history](https://github.com/cravemob/mog-status/commits/master/history/wikipedia.yml)). Then, the GitHub API is used to graph the response time history of each endpoint and to track when a site went down.
 
 <table>
   <tr>
@@ -275,7 +275,7 @@ Optionally, you can add some introductory text to the website. You can use Markd
 ```yaml
 status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/cravemob/mog-status). No server required — just GitHub Actions, Issues, and Pages.
 ```
 
 #### Site deployment
@@ -295,7 +295,7 @@ i18n:
 
 ### Updating
 
-This template is updated from time to time, so you can use the [`update-template`](https://github.com/koj-co/update-template) command to sync the changes from this GitHub repository template:
+This template is updated from time to time, so you can use the [`update-template`](https://github.com/cravemob/update-template) command to sync the changes from this GitHub repository template:
 
 ```bash
 npm run update-template
