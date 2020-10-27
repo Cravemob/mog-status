@@ -2,8 +2,8 @@ owner: cravemob
 repo: mog-status
 user-agent: mog-status
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Mog (dev)
+    url: http://ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com:30000
 notifications:
   - type: slack
     channel: 323
