@@ -1,4 +1,4 @@
-# [![Upptime](./assets/logo.svg)](https://upptime.js.org)
+# [![Upptime](./assets/logo.svg)](http://mog-status.elchronicle.io)
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -8,7 +8,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/cravemob/mog-status/workflows/Summary%20CI/badge.svg)](https://github.com/cravemob/mog-status/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/cravemob/mog-status/workflows/Uptime%20CI/badge.svg)](https://github.com/cravemob/mog-status/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
+## [📈 Live Status](http://mog-status.elchronicle.io): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
