@@ -1,7 +1,7 @@
 - url: http://ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com:30000
 - status: up
 - code: 200
-- responseTime: 375
-- lastUpdated: 2020-11-02T23:02:24.764Z
+- responseTime: 372
+- lastUpdated: 2020-11-03T06:19:29.159Z
 - startTime: 2020-10-27T08:39:06.021Z
 - generator: Upptime <https://github.com/upptime/upptime>
