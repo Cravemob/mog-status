@@ -9,5 +9,6 @@
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Mog (dev)](http://ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com:30000) | 🟩 Up | [mog-dev.yml](https://github.com/cravemob/mog-status/commits/master/history/mog-dev.yml) | <img alt="Response time graph" src="./graphs/mog-dev.png" height="20"> 299ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcravemob%2Fmog-status%2Fmaster%2Fapi%2Fmog-dev%2Fuptime.json)
+| [Mog (dev)](http://ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com:30000) | 🟩 Up | [mog-dev.yml](https://github.com/cravemob/mog-status/commits/master/history/mog-dev.yml) | <img alt="Response time graph" src="./graphs/mog-dev.png" height="20"> 301ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcravemob%2Fmog-status%2Fmaster%2Fapi%2Fmog-dev%2Fuptime.json)
+| [Mog (production)](http://ec2-15-223-29-142.ca-central-1.compute.amazonaws.com:30000) | 🟩 Up | [mog-production.yml](https://github.com/cravemob/mog-status/commits/master/history/mog-production.yml) | <img alt="Response time graph" src="./graphs/mog-production.png" height="20"> 58ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcravemob%2Fmog-status%2Fmaster%2Fapi%2Fmog-production%2Fuptime.json)
 <!--end: status pages-->
