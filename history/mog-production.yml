@@ -1,7 +1,7 @@
 - url: http://ec2-15-223-29-142.ca-central-1.compute.amazonaws.com:30000
 - status: up
 - code: 200
-- responseTime: 64
-- lastUpdated: 2020-11-10T23:02:03.409Z
+- responseTime: 121
+- lastUpdated: 2020-11-11T23:02:18.439Z
 - startTime: 2020-11-03T09:14:32.394Z
 - generator: Upptime <https://github.com/upptime/upptime>
