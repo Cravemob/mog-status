@@ -5,7 +5,7 @@
     "slug": "mog-dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 304
+    "time": 305
   },
   {
     "name": "Mog (production)",
@@ -13,6 +13,6 @@
     "slug": "mog-production",
     "status": "up",
     "uptime": "100.00",
-    "time": 78
+    "time": 81
   }
 ]
