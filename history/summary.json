@@ -11,8 +11,8 @@
     "name": "Mog (production)",
     "url": "http://ec2-15-223-29-142.ca-central-1.compute.amazonaws.com:30000",
     "slug": "mog-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 88
+    "time": 85
   }
 ]
