@@ -4,8 +4,8 @@ user-agent: mog-status
 sites:
   - name: Mog (dev)
     url: http://ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com:30000
-  - name: Mog (production)
-    url: http://ec2-15-223-29-142.ca-central-1.compute.amazonaws.com:30000
+  - name: Mog (release)
+    url: http://15.164.136.6:30000
 notifications:
   - type: slack
     channel: G017XTR46Q5
