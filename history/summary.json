@@ -4,15 +4,15 @@
     "url": "http://ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com:30000",
     "slug": "mog-dev",
     "status": "up",
-    "uptime": "100.00",
-    "time": 329
+    "uptime": "99.39%",
+    "time": 330
   },
   {
     "name": "Mog (production)",
     "url": "http://ec2-15-223-29-142.ca-central-1.compute.amazonaws.com:30000",
     "slug": "mog-production",
     "status": "down",
-    "uptime": "89.88",
-    "time": 79
+    "uptime": "85.14%",
+    "time": 76
   }
 ]
