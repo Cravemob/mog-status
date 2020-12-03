@@ -4,14 +4,14 @@
     "url": "http://ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com:30000",
     "slug": "mog-dev",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.11%",
+    "uptimeDay": "83.42%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.11%",
     "time": 397,
-    "timeDay": 432,
-    "timeWeek": 439,
+    "timeDay": 463,
+    "timeWeek": 452,
     "timeMonth": 399,
     "timeYear": 397
   },
@@ -25,10 +25,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 320,
-    "timeWeek": 352,
-    "timeMonth": 350,
-    "timeYear": 350
+    "time": 351,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 351,
+    "timeYear": 351
   }
 ]
