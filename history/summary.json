@@ -4,16 +4,16 @@
     "url": "http://ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com:30000",
     "slug": "mog-dev",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.32%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "98.91%",
-    "time": 400,
-    "timeDay": 470,
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "98.94%",
+    "time": 401,
+    "timeDay": 445,
     "timeWeek": 452,
-    "timeMonth": 408,
-    "timeYear": 400
+    "timeMonth": 412,
+    "timeYear": 401
   },
   {
     "name": "Mog (release)",
@@ -25,10 +25,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
+    "time": 351,
     "timeDay": 367,
     "timeWeek": 351,
-    "timeMonth": 349,
-    "timeYear": 349
+    "timeMonth": 351,
+    "timeYear": 351
   }
 ]
