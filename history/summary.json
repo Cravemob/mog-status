@@ -4,7 +4,7 @@
     "url": "http://ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com:30000",
     "icon": "https://favicons.githubusercontent.com/ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com",
     "slug": "mog-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
     "uptimeDay": "82.74%",
     "uptimeWeek": "97.28%",
