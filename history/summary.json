@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/ec2-13-125-98-107.ap-northeast-2.compute.amazonaws.com",
     "slug": "mog-dev",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.38%",
     "time": 967,
     "timeDay": 444,
     "timeWeek": 437,
@@ -35,9 +35,9 @@
     "url": "http://15.164.136.6:30000",
     "icon": "https://favicons.githubusercontent.com/15.164.136.6",
     "slug": "mog-release",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -46,6 +46,8 @@
     "timeWeek": 359,
     "timeMonth": 358,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-27": 0
+    }
   }
 ]
