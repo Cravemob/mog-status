@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 357,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   },
   {
@@ -34,5 +34,35 @@
     "timeMonth": 357,
     "timeYear": 357,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Mog (release)",
+    "url": "http://15.164.136.6:30000",
+    "icon": "https://favicons.githubusercontent.com/15.164.136.6",
+    "slug": "mog-release",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "0.00%",
+    "time": 981,
+    "timeDay": 357,
+    "timeWeek": 358,
+    "timeMonth": 359,
+    "timeYear": 981,
+    "dailyMinutesDown": {
+      "2021-02-07": 402,
+      "2021-02-06": 288,
+      "2021-02-05": 105,
+      "2021-02-04": 581,
+      "2021-02-02": 336,
+      "2021-02-01": 764,
+      "2021-01-31": 69,
+      "2021-01-30": 1269,
+      "2021-01-29": 138,
+      "2021-01-28": 777,
+      "2021-01-27": 19
+    }
   }
 ]
